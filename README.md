@@ -1,0 +1,2 @@
+# rubyAlgorith
+ruby solve
