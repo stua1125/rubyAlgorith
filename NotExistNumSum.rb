@@ -8,7 +8,7 @@ def solution(numbers)
   return answer
 end
 
-odd = [4,3]q2
+odd = [4,3]
 puts solution(odd)
 
 
