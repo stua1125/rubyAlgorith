@@ -5,7 +5,7 @@ def solution(numbers)
     arraySum += item
   end
   answer = sum - arraySum
-  return answer
+  answer
 end
 
 odd = [4,3]
